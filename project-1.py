@@ -1,5 +1,4 @@
-# Projeto 1 - Buggy Data Base (BDB)
-# Nuno Gonçalves - nunomrgoncalves@tecnico.ulisboa.pt (ist1103392) - 29/10/2021
+# Project 1 - Buggy Data Base (BDB)
 
 def corrigir_palavra(palavra):
     '''
